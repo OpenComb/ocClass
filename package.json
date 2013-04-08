@@ -1,5 +1,5 @@
 {
-  "name": "ocClass",
+  "name": "occlass",
   "version": "0.1.0",
   "description": "implement oop feature for node.js",
   "main": "lib/Class.js",
